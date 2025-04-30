@@ -1,0 +1,18 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../proiect_A9.srcs/sources_1/new/ANIMATIE1.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/ANIMATIE2.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/ANIMATIE3.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/ANIMATIE4.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/COUNTER.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/DCD7SEG.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/DMUX1x4.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/DMUX8x1.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/MUX4x1.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/ROM4x48.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/SevenSegment.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/clock_div.vhd" \
+"../../../../proiect_A9.srcs/sources_1/new/TOP_MODULE.vhd" \
+
+# Do not sort compile order
+nosort

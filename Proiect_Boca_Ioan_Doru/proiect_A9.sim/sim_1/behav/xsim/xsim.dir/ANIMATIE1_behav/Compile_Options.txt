@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "ANIMATIE1_behav" "xil_defaultlib.ANIMATIE1" -log "elaborate.log" 
